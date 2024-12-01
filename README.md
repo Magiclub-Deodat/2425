@@ -1,6 +1,7 @@
 <html>
 
 <head>
+   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
  <center><p id="para1">Club Magie de Déodat de Severac</p>
